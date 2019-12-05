@@ -13,3 +13,4 @@ Webster has the following Features
 - Listing all the s3 Buckets
 - Listing all the objects of a s3 buckets
 - Create and Setup new s3 buckets
+- Sync data for S3 Buckets
